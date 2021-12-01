@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 5c0518f749bf50545a2bd31655df3c53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7818293631954666098
+    second: Aseprite_Tileset_0
+  - first:
+      213: -1861300722391534207
+    second: Aseprite_Tileset_1
+  - first:
+      213: 411749590727827482
+    second: Aseprite_Tileset_2
+  - first:
+      213: 7939940430069048323
+    second: Aseprite_Tileset_3
+  - first:
+      213: 5561811754469422421
+    second: Aseprite_Tileset_4
+  - first:
+      213: 9186420089824104247
+    second: Aseprite_Tileset_5
+  - first:
+      213: 3759576249187785164
+    second: Aseprite_Tileset_6
+  - first:
+      213: 1585615963883132430
+    second: Aseprite_Tileset_7
+  - first:
+      213: -4391061339773778270
+    second: Aseprite_Tileset_8
+  - first:
+      213: -3260124833798632606
+    second: Aseprite_Tileset_9
+  - first:
+      213: 4693610525707772462
+    second: Aseprite_Tileset_10
+  - first:
+      213: 6365602973703873426
+    second: Aseprite_Tileset_11
+  - first:
+      213: 6133319333926366137
+    second: Aseprite_Tileset_12
+  - first:
+      213: 3101336071106870529
+    second: Aseprite_Tileset_13
+  - first:
+      213: -691721633819697377
+    second: Aseprite_Tileset_14
+  - first:
+      213: 8822100777482760614
+    second: Aseprite_Tileset_15
+  - first:
+      213: 317296799011197027
+    second: Aseprite_Tileset_16
+  - first:
+      213: -7270955808057826673
+    second: Aseprite_Tileset_17
+  - first:
+      213: -4806411736001917998
+    second: Aseprite_Tileset_18
+  - first:
+      213: 2973058026446784855
+    second: Aseprite_Tileset_19
+  - first:
+      213: -8774492632852489479
+    second: Aseprite_Tileset_20
+  - first:
+      213: 7074017276754504281
+    second: Aseprite_Tileset_21
+  - first:
+      213: 8576251651184263286
+    second: Aseprite_Tileset_22
+  - first:
+      213: 8355914482173532574
+    second: Aseprite_Tileset_23
+  - first:
+      213: -5257697915356018069
+    second: Aseprite_Tileset_24
+  - first:
+      213: -858719486053771288
+    second: Aseprite_Tileset_25
+  - first:
+      213: -2098796495087590455
+    second: Aseprite_Tileset_26
+  - first:
+      213: -8609563640457866910
+    second: Aseprite_Tileset_27
+  - first:
+      213: 7948670557879892794
+    second: Aseprite_Tileset_28
+  - first:
+      213: 287332141273758870
+    second: Aseprite_Tileset_29
+  - first:
+      213: 7922887348188412470
+    second: Aseprite_Tileset_30
+  - first:
+      213: -7090172356881947757
+    second: Aseprite_Tileset_31
+  - first:
+      213: -6467569735945519398
+    second: Aseprite_Tileset_32
+  - first:
+      213: 2318887199192338505
+    second: Aseprite_Tileset_33
+  - first:
+      213: -7774766823531714532
+    second: Aseprite_Tileset_34
+  - first:
+      213: 3332611933622262611
+    second: Aseprite_Tileset_35
+  - first:
+      213: 7970842523242352469
+    second: Aseprite_Tileset_36
+  - first:
+      213: -6135914652786224017
+    second: Aseprite_Tileset_37
+  - first:
+      213: 8930390549107018718
+    second: Aseprite_Tileset_38
+  - first:
+      213: -1197490694337317874
+    second: Aseprite_Tileset_39
+  - first:
+      213: 3464896928178609797
+    second: Aseprite_Tileset_40
+  - first:
+      213: 1678864376411709935
+    second: Aseprite_Tileset_41
+  - first:
+      213: -2595243224807820392
+    second: Aseprite_Tileset_42
+  - first:
+      213: -3850156178066043497
+    second: Aseprite_Tileset_43
+  - first:
+      213: 6230421295165493271
+    second: Aseprite_Tileset_44
+  - first:
+      213: 1445270457920730046
+    second: Aseprite_Tileset_45
+  - first:
+      213: 1011454884880220161
+    second: Aseprite_Tileset_46
+  - first:
+      213: -1961000906352772977
+    second: Aseprite_Tileset_47
+  - first:
+      213: 6212168074417368647
+    second: Aseprite_Tileset_48
+  - first:
+      213: 2385744081391372225
+    second: Aseprite_Tileset_49
+  - first:
+      213: -6228417948675856925
+    second: Aseprite_Tileset_50
+  - first:
+      213: -7244661996065179476
+    second: Aseprite_Tileset_51
+  - first:
+      213: 5695054688851591832
+    second: Aseprite_Tileset_52
+  - first:
+      213: -7851108913128304314
+    second: Aseprite_Tileset_53
+  - first:
+      213: -6004331704384470446
+    second: Aseprite_Tileset_54
+  - first:
+      213: -1714825611977651527
+    second: Aseprite_Tileset_55
+  - first:
+      213: 3847404742724788346
+    second: Aseprite_Tileset_56
+  - first:
+      213: 8777827818951816271
+    second: Aseprite_Tileset_57
+  - first:
+      213: 5550351759987092319
+    second: Aseprite_Tileset_58
+  - first:
+      213: 5206468718856912485
+    second: Aseprite_Tileset_59
+  - first:
+      213: 3433742943919769110
+    second: Aseprite_Tileset_60
+  - first:
+      213: -8671821215703888404
+    second: Aseprite_Tileset_61
+  - first:
+      213: -3499170010897637993
+    second: Aseprite_Tileset_62
+  - first:
+      213: -4654351579468859568
+    second: Aseprite_Tileset_63
+  - first:
+      213: -7939367168584424917
+    second: Aseprite_Tileset_64
+  - first:
+      213: -4411679183349074705
+    second: Aseprite_Tileset_65
+  - first:
+      213: -8384365404161547073
+    second: Aseprite_Tileset_66
+  - first:
+      213: 5502601489519695895
+    second: Aseprite_Tileset_67
+  - first:
+      213: 2128984914167785838
+    second: Aseprite_Tileset_68
+  - first:
+      213: 6748100413790939449
+    second: Aseprite_Tileset_69
+  - first:
+      213: -7986507934099982074
+    second: Aseprite_Tileset_70
+  - first:
+      213: 2518265155449982977
+    second: Aseprite_Tileset_71
+  - first:
+      213: -4154680491301994537
+    second: Aseprite_Tileset_72
+  - first:
+      213: 6893996096857245250
+    second: Aseprite_Tileset_73
+  - first:
+      213: -3509482596567860078
+    second: Aseprite_Tileset_74
+  - first:
+      213: -5598506256968243866
+    second: Aseprite_Tileset_75
+  - first:
+      213: -4679445755567843758
+    second: Aseprite_Tileset_76
+  - first:
+      213: 8984853864444758898
+    second: Aseprite_Tileset_77
+  - first:
+      213: -5684754952115297001
+    second: Aseprite_Tileset_78
+  - first:
+      213: -6521362674050749271
+    second: Aseprite_Tileset_79
+  - first:
+      213: -4196206068067108677
+    second: Aseprite_Tileset_80
+  - first:
+      213: -533871222736181408
+    second: Aseprite_Tileset_81
+  - first:
+      213: 4747371793435812784
+    second: Aseprite_Tileset_82
+  - first:
+      213: -1451196159246173676
+    second: Aseprite_Tileset_83
+  - first:
+      213: -2286421491096536318
+    second: Aseprite_Tileset_84
+  - first:
+      213: -8210391644986101409
+    second: Aseprite_Tileset_85
+  - first:
+      213: -9012882276955088797
+    second: Aseprite_Tileset_86
+  - first:
+      213: -954113463213421851
+    second: Aseprite_Tileset_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aseprite_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2724b5a92a8208c60800000000000000
+      internalID: 7818293631954666098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185bca5cad45b26e0800000000000000
+      internalID: -1861300722391534207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10aebb3214d6b500800000000000000
+      internalID: 411749590727827482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042708e0c5503e60800000000000000
+      internalID: 7939940430069048323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555fdbca2568f2d40800000000000000
+      internalID: 5561811754469422421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4a736668bc7f70800000000000000
+      internalID: 9186420089824104247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc955d6fda2bc2430800000000000000
+      internalID: 3759576249187785164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065175715d310610800000000000000
+      internalID: 1585615963883132430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a645dfe9f0df03c0800000000000000
+      internalID: -4391061339773778270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc00e8cb5b1c2d0800000000000000
+      internalID: -3260124833798632606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a8d2c7ed032140800000000000000
+      internalID: 4693610525707772462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2932acc9d2a275850800000000000000
+      internalID: 6365602973703873426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb67b0407ded1550800000000000000
+      internalID: 6133319333926366137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d3e6f99b82a0b20800000000000000
+      internalID: 3101336071106870529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f59b4c6d28666f0800000000000000
+      internalID: -691721633819697377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1be866ae56e6a70800000000000000
+      internalID: 8822100777482760614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3605e61f1c3476400800000000000000
+      internalID: 317296799011197027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82662b3730681b90800000000000000
+      internalID: -7270955808057826673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db4657ddf13c4db0800000000000000
+      internalID: -4806411736001917998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7590cfae58c624920800000000000000
+      internalID: 2973058026446784855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa9b8e807dba3680800000000000000
+      internalID: -8774492632852489479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aade3cb35fb2260800000000000000
+      internalID: 7074017276754504281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67002351077f40770800000000000000
+      internalID: 8576251651184263286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aseprite_Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99de7333fb26f370800000000000000
+      internalID: 8355914482173532574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
